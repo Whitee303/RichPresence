@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^13.6.0",
+    "gamedig": "^3.0.8"
+  }
+}
