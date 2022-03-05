@@ -8,7 +8,7 @@ let date = new Date();
 function UpdateStatements() {
     Gamedig.query({
         type: 'mtasa',
-        host: '51.83.184.65'    
+        host: '146.59.4.44'    
 	}).then((state) => {
         rpc.setActivity({
             details: `Podłączeni gracze: ${state.players.length} / ${state.maxplayers}`,
