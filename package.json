@@ -2,6 +2,8 @@
   "dependencies": {
     "discord-rpc": "^4.0.1",
     "discord.js": "^13.6.0",
-    "gamedig": "^3.0.8"
+    "gamedig": "^3.0.8",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1"
   }
 }
