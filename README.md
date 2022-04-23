@@ -44,4 +44,4 @@
     
 
 
-**Brakuje ci jakiegoś serwera na liście bądź masz jakiś problem? Nie ma problemu, skonatkuj się ze mną bezpośrednio przez discord: Whitee#5842
+**Brakuje ci jakiegoś serwera na liście bądź masz jakiś problem? Nie ma problemu, skonatkuj się ze mną bezpośrednio przez discord: Whitee#5842**
