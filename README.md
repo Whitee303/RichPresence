@@ -5,7 +5,7 @@
   - Po instalacji node.js pobieramy to repozytorium (Dla zielonych: Klikasz zielony przycisk Code i download zip)
   - Po pobraniu wyjmujesz folder RichPresence-master i przerzucasz go gdziekolwiek.
   - Po wykonaniu tego kroku klikasz installer.bat instalują ci się dodatki które są niezbędne do działania.
-  - Uruchamiamy przez start.bat i działa.
+  - Uruchamiamy przez start.bat wpisujemy nazwę serwera (Patrz punkt 3) i powinno działać.
   
   
   
@@ -28,3 +28,16 @@
 
 
       **Kontakt discord**: Whitee#5842
+
+3. Dostępne serwery:
+  ProjectRPG,
+  4life,
+  ParadiseRPG,
+  Polish Real Life,
+  New Real Life,
+  ffs,
+  top-dayz,
+  multirpg,
+  megarpg
+  
+    **Wszystko powinno zostać wpisane zgodnie z tym jak jest napisane powyżej** 
