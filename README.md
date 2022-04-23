@@ -41,3 +41,7 @@
   megarpg
   
     **Wszystko powinno zostać wpisane zgodnie z tym jak jest napisane powyżej** 
+    
+
+
+**Brakuje ci jakiegoś serwera na liście bądź masz jakiś problem? Nie ma problemu, skonatkuj się ze mną bezpośrednio przez discord: Whitee#5842
